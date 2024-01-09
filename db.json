@@ -1,0 +1,76 @@
+[
+    {
+        "products": [
+            {
+                "id": 1,
+                "image": "https://uspoloassn.in/cdn/shop/files/4_e99a96c5-9634-4dee-9342-3136cc0b2947_720x.jpg?v=1692215659",
+                "title": "Brand Print Pique T-Shirt",
+                "price": "₹ 1,299",
+                "description": "- Ribbed crew neck - Short sleeves - Straight hemline - Brand printed pattern - Pique knit - Country Of Origin - Bangladesh"
+            },
+            {
+                "id": 2,
+                "image": "https://uspoloassn.in/cdn/shop/files/1_7c8f4034-24c9-4850-b342-6b80f6ef737d_720x.jpg?v=1690527951",
+                "title": "Horizontal Stripe Cotton Polo Shirt",
+                "price": "₹ 1,999",
+                "description": "- Polo collar- Logo at chest- Short button placket- Short sleeves- Ribbed collar and sleeve hems- Uneven vented hem- Horizontal striped and colourblocked pattern - Pique knit - Slim fit - Country Of Origin - India"
+            },
+            {
+                "id": 3,
+                "image": "https://uspoloassn.in/cdn/shop/files/1_7f6b29b4-8672-47a9-8817-172fde4ebc82_720x.jpg?v=1696497215",
+                "title": "Solid Slim Fit Polo Shirt",
+                "price": "₹ 2,499",
+                "description": "| Polo collar | Brand logo on chest | Short button placket | Short sleeves | Uneven vented hem | Solid pattern | Knitted | Slim fit | Country Of Origin - India"
+            },
+            {
+                "id": 4,
+                "image": "https://uspoloassn.in/cdn/shop/files/1_ae68e91b-deab-49fd-8ac0-1685beefa680_720x.jpg?v=1690527968",
+                "title": "Brand Embroidered Cotton Polo Shirt",
+                "price": "₹ 2,299",
+                "description": "- Polo collar- Logo at chest- Short button placket- Short sleeves- Ribbed collar and sleeve hems- Uneven vented hem- Brand embroidered pattern- Pique knit- Slim fit- Country Of Origin - India"
+            },
+            {
+                "id": 5,
+                "image": "https://uspoloassn.in/cdn/shop/files/7_810988e7-da60-4e46-a67b-abcb0b871fbb_720x.jpg?v=1692215442",
+                "title": "Horizontal Stripe Cotton Polo Shirt",
+                "price": "₹ 1,999",
+                "description": "- Polo collar- Logo at chest- Short button placket- Short sleeves- Ribbed collar and sleeve hems- Uneven vented hem- Horizontal striped and colourblocked pattern- Pique knit- Slim fit- Country Of Origin - India"
+            },
+            {
+                "id": 6,
+                "image": "https://uspoloassn.in/cdn/shop/files/7_248e2512-f2ec-493f-9ee1-41dfd4b3ae9a_720x.jpg?v=1692216171",
+                "title": "Pure Cotton Striped Polo Shirt",
+                "price": "₹ 2,299",
+                "description": "- Ribbed polo collar- Logo at chest- Short button placket- Short sleeves with ribbed, striped and printed hems- Uneven vented hemline- Vertical striped pattern- Pique knit- Country Of Origin - India"
+            },
+            {
+                "id": 7,
+                "image": "https://uspoloassn.in/cdn/shop/files/7_5074bfdb-198a-4025-a8f4-9fe75fceccad_720x.jpg?v=1692216356",
+                "title": "Embroidered Logo Heathered Polo Shirt",
+                "price": "₹ 2,499",
+                "description": "| Polo collar | Embroidered logo at chest | Concealed short button placket | Short sleeves | Ribbed and tipped collar, placket, sleeve hems and hemline | Uneven vented hemline | Heathered pattern | Pique knit | Slim fit | Country Of Origin - India"
+            },
+            {
+                "id": 8,
+                "image": "https://uspoloassn.in/cdn/shop/files/7_62f2016a-1b8b-4cd1-ae2d-6add4f6757b5_720x.jpg?v=1692216355",
+                "title": "Brand Tape Cotton Polo Shirt",
+                "price": "₹ 2,199",
+                "description": "| Polo collar | Embroidered branding at chest | Short button placket | Short sleeves | Ribbed collar and sleeve hems | Brand taping at shoulders and sleeves | Uneven vented hemline | Solid pattern | Pique knit | Slim fit | Country Of Origin - India"
+            },
+            {
+                "id": 9,
+                "image": "https://uspoloassn.in/cdn/shop/files/1_9e6dcfe5-7da4-4334-99fa-3412a8e95342_720x.jpg?v=1691402619",
+                "title": "Logo Print Slim Fit Polo Shirt",
+                "price": "₹ 2,499",
+                "description": "| Polo collar | Logo at chest | Short button placket | Short sleeves | Ribbed collar and sleeve hems | Uneven vented hemline | All-over logo printed pattern | Knitted | Slim fit | Country Of Origin - India"
+            },
+            {
+                "id": 10,
+                "image": "https://uspoloassn.in/cdn/shop/files/7_829f70a8-1e1e-4604-a0ba-a42a2c43f43c_720x.jpg?v=1692216357",
+                "title": "Horizontal Stripe Cotton Polo Shirt",
+                "price": "₹ 1,999",
+                "description": "| Polo collar | Embroidered logo at chest | Short button placket | Short sleeves | Ribbed collar and sleeve hems | Uneven vented hem | Horizontal striped pattern | Patterned knit | Slim fit | Country Of Origin - India"
+            }
+        ]
+    }
+]
